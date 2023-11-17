@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tsveta-uzunova/tsveta-uzunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🕵️‍♂️ I'm Tsvey, a Manual QA enthusiast Exploring the World of Quality Assurance.
+- 🚀 I am currently learning QA Automation with C#.
+- 💻 Finished courses: Manual QA.
+- 🌱 Eager to learn from experienced QA professionals, and share insights with fellow QA enthusiasts.
+- 📖 I have a profound love for books, and you'll often catch me engrossed in captivating stories across various genres. Ask me for book recommendations anytime!
+- 🥋 On the mats, I'm a practitioner of Brazilian Jiu-Jitsu. The gentle art keeps me physically active and mentally/it is also called - the human chest/. It teaches me valuable lessons about strategy and discipline.
+- 🌐 Find me elsewhere:
+   - https://www.linkedin.com/in/tsveta-uzunova
 
-Here are some ideas to get you started:
+Happy testing and happy rolling! 🚀📚🥋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
